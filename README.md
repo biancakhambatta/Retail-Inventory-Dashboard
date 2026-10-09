@@ -22,5 +22,5 @@ A full-stack retail inventory management and business intelligence dashboard des
 ## Getting Started Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-   cd YOUR-REPO-NAME
+   git clone [https://github.com/biancakhambatta/Retail-Inventory-Dashboard.git](https://github.com/biancakhambatta/Retail-Inventory-Dashboard.git)
+   cd Retail-Inventory-Dashboard
